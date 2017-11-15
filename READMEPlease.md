@@ -1,4 +1,9 @@
 # WastetoProsperity
-Group project 1. Amy, Chantee, Malik and Wesley.
-Hello! I am getting used to using GitHub so this repository is empty at the moment. Currently learning Cloud9 but I will 
-update very soon! Just do not let it be a reflection of my work, as I am just now starting off building my portfolio.
+Group project for YWeb Career Academy
+ Amy Breunig the Content Manager
+ Chantee Lackey-Williams, Graphic Designer
+ Malik Zrelba, Front End Developer
+ Wesley Webster, Project Manager
+ 
+ 
+Hello! This is the HTML repository of our Waste to Prosperity project.
